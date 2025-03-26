@@ -3,8 +3,8 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/YuncenLiu?label=关注者&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/YuncenLiu?label=获赞&style=social" alt="GitHub星标" />
+  <img src="https://img.shields.io/github/followers/YuncenLiu?label=关注者&color=2F80ED&style=social" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/YuncenLiu?label=获赞&color=2F80ED&style=social" alt="GitHub星标" />
   <img src="https://komarev.com/ghpvc/?username=YuncenLiu&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
 </div>
 
@@ -15,7 +15,7 @@
 ### 👨‍💻 关于我
 
 - 🔭 正在从事~~令人兴奋~~的~~开源~~项目开发（连续熬夜，头发越来越少，你说我秃不秃？）
-- 🌱 专注于 Java、Go、C#、JS、Python、PHP、易语言（我啥都会一点，但是我啥都不精）
+- 🌱 专注于 Java、JS、Python、GO、K8s（我啥都会一点，但是我啥都不精）
 - 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
 - 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
 - ⚡  我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
@@ -62,12 +62,17 @@
   <a href="https://github.com/YuncenLiu">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:YuncenLiu1998@163.com">
+  <a href="mailto:yuncenliu@163.com">
     <img src="https://img.shields.io/badge/邮箱-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <!-- 微信：JavaRookie666 -->
   <a href="./img/wx_me.png">
     <img src="https://img.shields.io/badge/微信-ddddd?style=for-the-badge&logo=wechat&logoColor=white" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://liuyuncen.com">
+    云站
   </a>
 </div>
 
