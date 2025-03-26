@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/github/followers/YuncenLiu?label=关注者&color=2F80ED&style=social" alt="GitHub关注者" />
-  <img src="https://img.shields.io/github/stars/YuncenLiu?label=获赞&color=2F80ED&style=social" alt="GitHub星标" />
-  <img src="https://komarev.com/ghpvc/?username=YuncenLiu&label=访问量&color=2F80ED&style=flat" alt="访问统计" />
+  <img src="https://img.shields.io/github/followers/YuncenLiu" alt="GitHub关注者" />
+  <img src="https://img.shields.io/github/stars/YuncenLiu" alt="GitHub星标" />
+  <img src="https://komarev.com/ghpvc/?username=YuncenLiu&abbreviated=true" alt="访问统计" />
 </div>
 
 <br/>
@@ -19,6 +19,7 @@
 - 💡 热衷于探索新技术栈和构建有趣的项目（我啥都想学，我啥都学不会）
 - 🎯 目标：为更多开源项目做出贡献（如果我有时间的话）
 - ⚡  我不想把时间浪费在无意义的事情上（哪怕拉屎没带纸））
+- 🚉 我的个人主页 [云站: https://liuyuncen.com](https://liuyuncen.com)
 
 <br/>
 
