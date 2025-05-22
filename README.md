@@ -1,5 +1,40 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=520&lines=你好，世界！+👋;欢迎来到我的GitHub个人主页！;我是云+-+一名热爱编程的开发者;让编程创造无限可能" />
+  <p style="text-align: center">
+            <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' viewBox='0 0 520 50' style='background-color: #00000000;' width='520px' height='50px'>
+              <path id='path0'>
+                <!-- Single line -->
+                <animate id='d0' attributeName='d' begin='0s;d3.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h520 ; m0,25 h520 ; m0,25 h0' keyTimes='0;0.6;0.85;1'/>
+              </path>
+              <text font-family='"Fira Code", monospace' fill='#2F80ED' font-size='20' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
+                <textPath xlink:href='#path0'>你好，世界！ 👋
+                </textPath>
+              </text>
+              <path id='path1'>
+                <!-- Single line -->
+                <animate id='d1' attributeName='d' begin='d0.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h520 ; m0,25 h520 ; m0,25 h0' keyTimes='0;0.6;0.85;1'/>
+              </path>
+              <text font-family='"Fira Code", monospace' fill='#2F80ED' font-size='20' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
+                <textPath xlink:href='#path1'>欢迎来到我的个人主页！
+                </textPath>
+              </text>
+              <path id='path2'>
+                <!-- Single line -->
+                <animate id='d2' attributeName='d' begin='d1.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h520 ; m0,25 h520 ; m0,25 h0' keyTimes='0;0.6;0.85;1'/>
+              </path>
+              <text font-family='"Fira Code", monospace' fill='#2F80ED' font-size='20' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
+                <textPath xlink:href='#path2'>我是云 - 一名热爱编程的开发者
+                </textPath>
+              </text>
+              <path id='path3'>
+                <!-- Single line -->
+                <animate id='d3' attributeName='d' begin='d2.end' dur='4000ms' fill='remove' values='m0,25 h0 ; m0,25 h520 ; m0,25 h520 ; m0,25 h0' keyTimes='0;0.6;0.85;1'/>
+              </path>
+              <text font-family='"Fira Code", monospace' fill='#2F80ED' font-size='20' dominant-baseline='middle' x='50%' text-anchor='middle' letter-spacing='normal'>
+                <textPath xlink:href='#path3'>让编程创造无限可能
+                </textPath>
+              </text>
+            </svg>
+          </p>
 </div>
 
 <div align="center">
